@@ -20,9 +20,9 @@ Social Networking Site developed in Bootstrap + PHP
 
 ####Live demo at:
 * http://github.mytechblog.in/sns/
-* 
+ 
 * Username: ankit.wasankar12@gmail.com
 * password: 12345
-* 
+ 
 * Username: mangeshhajare787@gmail.com
 * password: 12345

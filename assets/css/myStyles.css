@@ -1,0 +1,37 @@
+.padding10u{
+	padding:10px;
+}
+.loginPageBackground{
+	background-color:#333;
+}
+.center {
+     margin-left: auto;
+     margin-right: auto;
+     display:block;
+     text-align:center;
+}
+.img1{
+	height: auto;
+	width:100%;
+}
+.center1{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.online{
+	position:fixed;
+   	width:23%;
+	height:80%;
+}
+.align_vertical{
+	line-height:100%;
+	vertical-align:middle;
+	display:block;
+}
+.my_pad{
+	display:block;
+	margin-top:5px;
+	margin-left:auto;
+	margin-right:auto;
+}

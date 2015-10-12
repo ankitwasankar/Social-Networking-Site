@@ -18,8 +18,8 @@ Social Networking Site developed in Bootstrap + PHP
 * Track login records
 * And all basic social network functionalities
 
-####Live demo at:
-* http://github.mytechblog.in/sns/
+####Check Live demo at:
+* live demo : http://github.mytechblog.in/sns/
  
 * Username: ankit.wasankar12@gmail.com
 * password: 12345
